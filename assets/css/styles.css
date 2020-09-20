@@ -1,0 +1,7 @@
+.dropdown-toggle::after { 
+    content: none; 
+} 
+nav > ul > li > a:hover { 
+    border-bottom: 2px solid hsl(0, 0%, 100%);
+    text-decoration: none; 
+    }
